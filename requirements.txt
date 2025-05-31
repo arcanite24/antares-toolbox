@@ -1,0 +1,5 @@
+openai
+python-dotenv
+tqdm
+groq
+comfy_api_simplified

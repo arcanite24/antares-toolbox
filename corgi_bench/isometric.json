@@ -1,0 +1,64 @@
+{
+    "prompts": [
+        {
+            "prompt": "tree"
+        },
+        {
+            "prompt": "medieval house"
+        },
+        {
+            "prompt": "city park"
+        },
+        {
+            "prompt": "market stall with fruits"
+        },
+        {
+            "prompt": "wizard's tower"
+        },
+        {
+            "prompt": "windmill on a hill"
+        },
+        {
+            "prompt": "train station with passengers"
+        },
+        {
+            "prompt": "dragon flying over a village"
+        },
+        {
+            "prompt": "spaceship landing on a moon base"
+        },
+        {
+            "prompt": "bustling city street with neon signs"
+        },
+        {
+            "prompt": "pirate ship on a stormy sea"
+        },
+        {
+            "prompt": "forest scene with animals and a river"
+        },
+        {
+            "prompt": "futuristic city with flying cars"
+        },
+        {
+            "prompt": "seaside town with a lighthouse and boats"
+        },
+        {
+            "prompt": "carnival with a ferris wheel and food stands"
+        },
+        {
+            "prompt": "underwater city with coral and marine life"
+        },
+        {
+            "prompt": "fantasy castle with a drawbridge and moat"
+        },
+        {
+            "prompt": "bustling marketplace with various vendors and shoppers"
+        },
+        {
+            "prompt": "science lab with scientists and experimental equipment"
+        },
+        {
+            "prompt": "cyberpunk alley with graffiti and neon lights"
+        }
+    ]
+}

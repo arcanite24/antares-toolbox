@@ -1,0 +1,8 @@
+.env
+antares.json
+
+__pycache__
+ai-toolkit/
+hf_space/
+rd/
+simpletuner/

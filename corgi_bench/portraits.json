@@ -1,0 +1,52 @@
+{
+    "prompts": [
+        {
+            "prompt": "portrait of an elderly woman with a gentle smile and deep wrinkles"
+        },
+        {
+            "prompt": "portrait of a young man with curly hair and freckles"
+        },
+        {
+            "prompt": "portrait of a middle-aged man with a thick beard and glasses"
+        },
+        {
+            "prompt": "portrait of a teenage girl with a hijab and a confident expression"
+        },
+        {
+            "prompt": "portrait of an indigenous elder with traditional face paint"
+        },
+        {
+            "prompt": "portrait of a woman with vitiligo and bright red lipstick"
+        },
+        {
+            "prompt": "portrait of a Black man with a joyful expression and a stylish hat"
+        },
+        {
+            "prompt": "portrait of a child with Down syndrome and a big grin"
+        },
+        {
+            "prompt": "portrait of a young woman with shaved hair and tattoos"
+        },
+        {
+            "prompt": "portrait of a transgender person with colorful makeup and a warm smile"
+        },
+        {
+            "prompt": "portrait of a man with an eye patch and a rugged appearance"
+        },
+        {
+            "prompt": "portrait of a woman in her 60s with silver hair and hoop earrings"
+        },
+        {
+            "prompt": "portrait of a person with albinism and striking light eyes"
+        },
+        {
+            "prompt": "portrait of an Asian man with a stern expression and a traditional outfit"
+        },
+        {
+            "prompt": "portrait of a Native American teenager with braids and a modern hoodie"
+        },
+        {
+            "prompt": "portrait of an older person with a wide-brimmed hat and a weathered face"
+        }
+    ]
+}

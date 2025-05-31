@@ -1,0 +1,61 @@
+{
+    "prompts": [
+        {
+            "prompt": "sprawling vineyard with a stone farmhouse and rows of grapevines stretching into the distance, shaded by cypress trees"
+        },
+        {
+            "prompt": "seaside fishing village with colorful houses, small docks, fishing nets, and seagulls flying overhead at sunrise"
+        },
+        {
+            "prompt": "enchanted forest clearing with tall, ancient trees, a small pond with glowing lily pads, and a lone unicorn grazing"
+        },
+        {
+            "prompt": "bustling medieval marketplace with various stalls selling pottery, fabrics, and food, surrounded by villagers and a central fountain"
+        },
+        {
+            "prompt": "abandoned castle on a misty hill, with crumbling towers, ivy-covered walls, and eerie, dimly lit windows"
+        },
+        {
+            "prompt": "cozy mountain inn with wooden balconies, warm lights in the windows, and snow-covered pine trees in the background"
+        },
+        {
+            "prompt": "futuristic city skyline at dusk with towering glass buildings, floating drones, neon-lit advertisements, and flying vehicles"
+        },
+        {
+            "prompt": "pirate cove with rugged cliffs, hidden caves, ships anchored in the water, and treasure chests scattered around"
+        },
+        {
+            "prompt": "fantasy library filled with towering bookshelves, spiral staircases, floating candles, and ancient, magical tomes glowing on pedestals"
+        },
+        {
+            "prompt": "space observatory on a distant moon with giant telescopes, research buildings, scientists in spacesuits, and a view of distant planets"
+        },
+        {
+            "prompt": "enchanted bakery with whimsical pastries in the window, a warm, inviting glow, and a cobblestone path lined with flower pots"
+        },
+        {
+            "prompt": "desert caravan camp with tents arranged in a circle, camels resting nearby, merchants trading goods, and a glowing sunset in the background"
+        },
+        {
+            "prompt": "mystical hot spring in the mountains with steam rising from the water, surrounded by rocks, blooming cherry trees, and lanterns hanging from branches"
+        },
+        {
+            "prompt": "bustling industrial factory with towering chimneys, conveyor belts, robots assembling machinery, and workers in hard hats"
+        },
+        {
+            "prompt": "grand theater entrance with red velvet curtains, golden chandeliers, people in formal attire, and a marquee announcing a famous play"
+        },
+        {
+            "prompt": "peaceful Zen garden with raked sand, stone lanterns, a small koi pond, and cherry blossom petals gently falling from the trees"
+        },
+        {
+            "prompt": "ice castle on a frozen lake with intricate icicle spires, a drawbridge, and magical creatures frolicking on the icy landscape"
+        },
+        {
+            "prompt": "bustling city train station with passengers waiting, colorful advertisements on the walls, and a sleek train arriving at the platform"
+        },
+        {
+            "prompt": "old-world apothecary with shelves full of strange bottles, dried herbs hanging from the ceiling, and a mysterious alchemist at work"
+        }
+    ]
+}
